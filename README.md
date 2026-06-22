@@ -227,4 +227,4 @@ cadenas-markov/
 
 ## Autor
 
-Proyecto desarrollado como práctica de fundamentos de inteligencia artificial y modelos probabilísticos.
+Proyecto desarrollado como práctica de fundamentos de inteligencia artificial y modelos probabilísticos por Angelica Flores
